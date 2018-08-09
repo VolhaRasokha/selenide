@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17971" started-at="2018-08-09T08:15:23Z" finished-at="2018-08-09T08:15:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17971" started-at="2018-08-09T08:15:23Z" finished-at="2018-08-09T08:15:41Z">
+      <class name="tests.MailCreationTest">
+        <test-method status="PASS" signature="mailRuLoginTest()[pri:0, instance:tests.MailCreationTest@6ad5c04e]" name="mailRuLoginTest" duration-ms="17961" started-at="2018-08-09T11:15:23Z" finished-at="2018-08-09T11:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailRuLoginTest -->
+      </class> <!-- tests.MailCreationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
